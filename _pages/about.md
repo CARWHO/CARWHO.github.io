@@ -1,41 +1,34 @@
-# Welcome to My Website
+---
+permalink: /  
+author_profile: true  
+redirect_from:  
+  - /about/  
+  - /about.html  
+---
 
-Hi there! I'm Kahu Hutton, an enthusiastic engineering student currently in my third year, specializing in **Electrical Engineering**. I'm passionate about technology, especially where it intersects with **Computational Fluid Dynamics (CFD)**, embedded systems, and innovative engineering applications.
+# Hello! I'm Kahu, a third-year engineering undergrad at UC and founder of KORA.
 
 ---
 
 ## About Me
 
-- 🎓 **Electrical Engineering Student**  
-  Third-year undergraduate with hands-on experience in both theoretical and practical aspects of engineering, from circuit design to embedded systems.
+- **Electrical Engineering Student**  
+  Third-year undergraduate specializing in electrical engineering.
 
-- 🚀 **Embedded Systems Engineer**  
-  Currently interning at **Dawn Aerospace**, where I contribute to CubeSat technology as an embedded systems software engineer. Excited to be working at the intersection of space and cutting-edge engineering!
+- **Embedded Systems Engineer Intern**  
+  Currently interning at **Dawn Aerospace** as an embedded systems software engineer, working on satellite propulsion.
 
-- 💻 **Founder of KORA**  
-  Founder of **KORA**, an initiative where we explore how artificial intelligence can empower students and educators to learn and teach more effectively.
+- **Founder of KORA**  
+  Creator of **KORA**, a generative academic AI designed to support students and educators by automating grading and creating study resources. 
 
-- 🚴 **Mountain Bike Racing Enthusiast**  
-  When I'm not coding or studying, I love racing down mountain trails! The thrill of mountain biking keeps me energized and focused.
-
-- 🎥 **Filmmaker**  
-  Filmmaking allows me to blend my technical skills with creativity, producing visual content that tells a story. This interest has given me valuable insight into problem-solving and project management.
-
+  For more information about **KORA**, reach out to us at [our email](mailto:KORAedu.team@gmail.com). Read more about KORA on [our GitHub](https://github.com/kora-edu).
+  
 ---
 
 ## Interests
 
-- **Embedded Systems**  
-- **Computational Fluid Dynamics (CFD)**  
-- **Artificial Intelligence & Machine Learning**  
-- **Filmmaking and Visual Storytelling**  
-- **Mountain Biking and Adventure Sports**
-
-Feel free to reach out if you share similar interests or have exciting projects you'd like to collaborate on. I'm always looking to connect with like-minded individuals passionate about engineering and technology!
-
----
-
-📫 **Get in Touch**  
-- [LinkedIn](#)  
-- [GitHub](#)  
-- [Email](mailto:your-email@example.com)
+- **Embedded Systems**
+- **Computational Fluid Dynamics (CFD)**
+- **AI & Machine Learning**
+- **Filmmaking**
+- **Mountain Bike Racing**

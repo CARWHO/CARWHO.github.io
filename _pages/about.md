@@ -4,6 +4,9 @@ author_profile: true
 redirect_from:  
   - /about/  
   - /about.html  
+---
+
+# Hello! I'm Kahu, a third-year engineering undergrad at UC and founder of KORA.
 
 ---
 
@@ -28,4 +31,4 @@ redirect_from:
 - **Computational Fluid Dynamics (CFD)**
 - **AI & Machine Learning**
 - **Filmmaking**
-- **Mountain Bike Racing**
+- **Mountain Biking**

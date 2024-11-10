@@ -1,8 +1,8 @@
 ---
-permalink: /projects/halovision  
+permalink: /portfolio/halovision  
 title: "HaloVision: Enhancing Motorcycle Safety and Navigation"  
 excerpt: "A heads-up display system for motorcycles that enhances safety with real-time navigation and indicator notifications."  
-collection: projects  
+collection: portfolio  
 author_profile: true  
 ---
 

@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hello! I'm Kahu, a third-year engineering undergrad at UC and founder of KORA.
+Hello! I'm Kahu, a third-year engineering undergrad at UC and founder of KORA.
 
 ## About Me
 

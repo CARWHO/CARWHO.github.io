@@ -1,11 +1,12 @@
 source 'https://rubygems.org'
 
-group :jekyll_plugins do
-  gem 'github-pages'  # GitHub Pages support
-end
+gem 'github-pages', group: :jekyll_plugins
 
-# Add webrick if you're using Ruby 3.x for local development
-gem 'webrick', '~> 1.8'
+group :jekyll_plugins do
+  gem 'jekyll-feed'
+  gem 'jekyll-sitemap'
+  gem 'jemoji'
+end
 
 # Add tzinfo-data for timezone support on Windows
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]

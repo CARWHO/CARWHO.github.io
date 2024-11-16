@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! I’m Kahu, a third-year engineering undergrad at UC and founder of KORA"
+title: "Hello! I’m Kahu, a third-year engineering undergrad at UC"
 author_profile: true
 redirect_from:
   - /about/

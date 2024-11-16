@@ -1,8 +1,8 @@
 ---
 permalink: /portfolio/halovision  
 title: "HaloVision: Enhancing Motorcycle Safety and Navigation"  
-excerpt: "A heads up display system for motorcycles that enhances safety with real-time navigation and indicator notifications."  
-collection: portfolio    
+excerpt: "A heads-up display system for motorcycles that enhances safety with real-time navigation and indicator notifications."  
+collection: portfolio  
 author_profile: true  
 ---
 

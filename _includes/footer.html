@@ -1,29 +1,3 @@
-{% include base_path %}
-
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }} – Stay Connected!</strong></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i> Explore on GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-bitbucket" aria-hidden="true"></i> Check Out Bitbucket</a></li>
-    {% endif %}
-    {% if site.atom_feed.hide != true %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" target="_blank"><i class="fa fa-rss" aria-hidden="true"></i> Subscribe to Updates</a></li>
-    {% endif %}
-  </ul>
-</div>
-{% endif %}
-
-<div class="page__footer-note">
-  <p>Connect with the latest updates, code, and ideas directly from this site – your hub for tech insights and inspiration.</p>
-</div>
-
 <div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} <strong>{{ site.name | default: site.title }}</strong>. Proudly powered by <a href="http://jekyllrb.com" target="_blank" rel="nofollow">Jekyll</a> and <a href="https://github.com/academicpages/academicpages.github.io" target="_blank">AcademicPages</a>, based on <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  <small>Last updated on {{ "now" | date: '%B %d, %Y' }}</small>
+  &copy; 2024 Kahu Hutton
 </div>

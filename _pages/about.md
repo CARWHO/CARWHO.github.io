@@ -10,7 +10,10 @@ redirect_from:
 ## About Me
 
 - **Electrical Engineering Student**  
-  Third-year undergraduate electrical engineer.
+  Third-year undergraduate electrical engineer, loves to race mountain bikes.
+
+  ![Me and Dad](\images\uAndDad.jpg "Me and Dad")
+  ![Mountain Biking](\images\mtbIMG.jpg "Mountain Biking")
 
 - **Embedded Systems Engineer Intern**  
   Currently interning at **Dawn Aerospace** as an embedded systems software engineer, working on satellite propulsion.
@@ -19,4 +22,3 @@ redirect_from:
   Creator of **KORA**, a generative academic AI designed to support students and educators by automating grading and creating study resources.
 
 To learn more about **KORA**, feel free to contact us via [email](mailto:KoraEdu.team@gmail.com). You can also explore additional information on [our website](https://kora-edu.github.io/) or visit [our GitHub page](https://github.com/kora-edu).
-

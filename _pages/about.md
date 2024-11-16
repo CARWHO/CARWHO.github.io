@@ -18,4 +18,4 @@ redirect_from:
 - **Founder of KORA**  
   Creator of **KORA**, a generative academic AI designed to support students and educators by automating grading and creating study resources.
 
-  For more information about **KORA**, reach out to us at [our email](mailto:KoraEdu.team@gmail.com). Read more about KORA on [our GitHub](https://github.com/kora-edu).
+  For more information about **KORA**, reach out to us at [our email](mailto:KoraEdu.team@gmail.com). Read more about KORA on [our website](https://kora-edu.github.io/) or [our GitHub](https://github.com/kora-edu) 

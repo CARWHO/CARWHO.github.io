@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/halovision  
-title: ""  
+title: "HaloVision: Enhancing Motorcycle Safety and Navigation"  
 excerpt: "A heads-up display system for motorcycles that enhances safety with real-time navigation and indicator notifications."  
 collection: portfolio  
 author_profile: true  
@@ -10,7 +10,7 @@ author_profile: true
 
 **HaloVision** is a heads-up display system designed to improve motorcycle safety by providing turn-by-turn navigation and indicator notifications on a helmet-mounted display. Inspired by personal experiences with motorcycle safety, HaloVision evolved from a simple indicator broadcaster into a full display system with custom-designed PCBs and a mobile app for real-time, hands-free updates.
 
-[Download the full HaloVision Report](/assets/files/HaloVisionReportFull.pdf)
+[Download the full HaloVision Report](/files/HaloVisionReportFull.pdf)
 
 ---
 

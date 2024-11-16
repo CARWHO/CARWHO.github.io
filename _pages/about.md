@@ -12,8 +12,10 @@ redirect_from:
 - **Electrical Engineering Student**  
   Third-year undergraduate electrical engineer, loves to race mountain bikes.
 
-  ![Me and Dad](\images\uAndDad.jpg "Me and Dad")
-  ![Mountain Biking](\images\mtbIMG.jpg "Mountain Biking")
+  <div style="display: flex; gap: 10px;">
+      <img src="/images/uAndDad.jpg" alt="Me and Dad" style="width: 45%; border-radius: 8px;">
+      <img src="/images/mtbIMG.jpg" alt="Mountain Biking" style="width: 45%; border-radius: 8px;">
+  </div>
 
 - **Embedded Systems Engineer Intern**  
   Currently interning at **Dawn Aerospace** as an embedded systems software engineer, working on satellite propulsion.

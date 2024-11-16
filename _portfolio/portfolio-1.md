@@ -12,6 +12,7 @@ author_profile: true
 
 [Download the full HaloVision Report](/files/HaloVisionReportFull.pdf)
 
+
 ---
 
 ## Key Highlights

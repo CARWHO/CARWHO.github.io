@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/halovision  
-title: "HaloVision: Enhancing Motorcycle Safety and Navigation"  
+title: "HaloVision: Enhancing Motorcycle Safety and Navigation (2023-2024)"  
 excerpt: "A heads-up display system for motorcycles that enhances safety with real-time navigation and indicator notifications."  
 collection: portfolio  
 author_profile: true  
@@ -23,7 +23,5 @@ author_profile: true
 - **Collaboration**: Worked alongside app developers, engineers, and industry professionals to bring HaloVision from concept to prototype.
 
 ---
-
-HaloVision showcases my drive to engineer practical safety solutions. This project pushed my technical boundaries and highlighted the power of cross-disciplinary teamwork.
 
 

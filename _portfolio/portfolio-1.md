@@ -18,12 +18,12 @@ author_profile: true
 ## Key Highlights
 
 - **Custom PCBs**: Designed custom PCBs for optimal power efficiency and compactness.
-- **3D-Printed Mounts**: Developed helmet mounts for varied riding speeds, balancing aerodynamics and ease of use.
+- **Mounts & Enclosures**: Developed helmet mounts for varied riding speeds, balancing aerodynamics and ease of use.
 - **Safety Testing with CFD**: Conducted simulations to analyze aerodynamic forces, refining the mount design for stability and user safety. Collaborated with Dr. Finn McIntyre, Ph.D. in fluid mechanics, to validate CFD results, utilizing the University of Canterbury's wind tunnel for comparison.
 - **Collaboration**: Worked alongside app developers, engineers, and industry professionals to bring HaloVision from concept to prototype.
 
 ---
 
-HaloVision represents my commitment to engineering solutions that enhance safety and usability in real-world applications. The project challenged my technical skills and reinforced the value of cross-disciplinary collaboration.
+HaloVision showcases my drive to engineer practical safety solutions. This project pushed my technical boundaries and highlighted the power of cross-disciplinary teamwork.
 
 

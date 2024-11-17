@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! I’m Kahu, a third-year engineering undergrad at UC"
+title: "Kahu Hutton"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,14 +9,16 @@ redirect_from:
 
 ## About Me
 
-- **Electrical Engineering Student**  
-  Third-year undergraduate electrical engineer, loves to race mountain bikes.
+### Electrical Engineering Student
 
-- **Embedded Systems Engineer Intern**  
-  Currently interning at **Dawn Aerospace** as an embedded systems software engineer, working on satellite propulsion.
+I am a third-year electrical engineering undergraduate at the University of Canterbury. I also really enjoy racing mountain bikes!
 
-- **Founder of KORA**  
-  Creator of **KORA**, a generative academic AI designed to support students and educators by automating grading and creating study resources.
+### Embedded Systems Engineer Intern at Dawn Aerospace
 
-To learn more about **KORA**, feel free to contact us via [email](mailto:KoraEdu.team@gmail.com). You can also explore additional information on [our website](https://kora-edu.github.io/) or visit [our GitHub page](https://github.com/kora-edu).
+Currently interning at **Dawn Aerospace** as an embedded systems software engineer in satellite propulsion systems. 
 
+### Founder of KORA
+
+As the creator of **KORA**, I have developed a generative academic AI aimed at supporting students and educators by automating grading and creating study resources. **KORA** strives to enhance the educational experience through innovative technology.
+
+For more information about **KORA**, feel free to [contact us via email](mailto:KoraEdu.team@gmail.com). You can also learn more on [our website](https://kora-edu.github.io/) or visit [our GitHub page](https://github.com/kora-edu).
